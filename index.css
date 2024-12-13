@@ -1,0 +1,27 @@
+#title {
+    text-align: center;
+}
+
+a:link {
+    color:aqua
+}
+
+a:visited {
+    color:aquamarine
+}
+
+a:hover {
+    color:aqua
+}
+
+a:active {
+    color:cadetblue;
+}
+
+body {
+    background-color: black;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex: auto;
+    align-items: center;
+}
